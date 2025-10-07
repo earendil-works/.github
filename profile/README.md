@@ -1,4 +1,4 @@
-+ Craft Software and Open Procotols to
++ Craft Software and Open Procotols
 
 + Strengthen Human Agency
 
