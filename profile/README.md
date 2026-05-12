@@ -1,4 +1,4 @@
-|| Craft Software and Open Procotols
+|| Craft Software and Open Protocols
 
 || Strengthen Human Agency
 
